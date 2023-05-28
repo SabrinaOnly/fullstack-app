@@ -1,0 +1,23 @@
+/** 
+ *  Tailwind directive: base
+ *  ---------------------------
+ */
+@tailwind base;
+
+/** 
+ *  Tailwind directive: components
+ *  ---------------------------
+ */
+@tailwind components;
+
+/** 
+ *  Tailwind directive: utilities
+ *  ---------------------------
+ */
+@tailwind utilities;
+
+/** 
+ *  Tailwind directive: variants
+ *  ---------------------------
+ */
+@tailwind variants;
